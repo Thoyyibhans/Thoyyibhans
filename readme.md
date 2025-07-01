@@ -107,26 +107,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏠 **House Price Predictor** | ML model predicting real estate prices with 85% accuracy using advanced regression techniques | `Python` `Scikit-Learn` `Pandas` `Flask` |
-| 📈 **Sales Analytics Dashboard** | Interactive dashboard analyzing sales trends and KPIs for business intelligence | `Power BI` `SQL` `Python` `DAX` |
-| 📚 **Documentation Generator** | Automated tool generating API documentation from code comments and schemas | `Python` `Markdown` `FastAPI` `GitBook` |
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Why Data Analysts Should Learn Google Apps Script](https://medium.com/@thoyyibhans/why-data-analysts-should-learn-google-apps-script)
-- [Using Supabase with Netlify in 5 Minutes](https://dev.to/thoyyibhans/supabase-netlify-tutorial)
-- [From Student to Open Source Contributor](https://hashnode.com/@thoyyibhans/student-to-contributor)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
