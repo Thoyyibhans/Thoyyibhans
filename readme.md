@@ -139,7 +139,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=Thoyyibhans&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" />
+## Streak Stats
 
 </div>
 
@@ -150,46 +150,6 @@
 </div>
 
 ---
-
-## 🎵 Now Playing on Spotify
-
-<div align="center">
-
-<img src="https://spotify-now-playing-thoyyib.vercel.app/api/spotify" alt="Spotify Now Playing" />
-
-</div>
-
----
-
-## ⏰ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 45 mins  ████████████▓░░░░░░░░░░░   50.8%
-SQL          6 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░   25.9%
-JavaScript   3 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░   13.0%
-Markdown     1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░   7.0%
-Other        50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░   3.3%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thoyyibhans/Thoyyibhans/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thoyyibhans/Thoyyibhans/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thoyyibhans/Thoyyibhans/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
 
 ### Connect with me and let's build something amazing together! 🚀
 
